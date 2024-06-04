@@ -10,6 +10,4 @@ google-chrome --version
 返回版本 
 Google Chrome 125.0.6422.141
 
-pip3 install webdriver-manager
-
-`
+pip3 install webdriver-manager`
