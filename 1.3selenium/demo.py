@@ -19,7 +19,7 @@ options.add_argument('--disable-dev-shm-usage')
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(options=options, service=service)
 
-driver.get("https://foresightnews.pro/")
+driver.get("https://xxxx/")
 
 # 等待页面的JavaScript加载完成
 WebDriverWait(driver, 10).until(
